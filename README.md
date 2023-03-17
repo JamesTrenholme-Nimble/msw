@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# MSW Demo
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was created to show off what MSW can do
 
 ## Available Scripts
 
