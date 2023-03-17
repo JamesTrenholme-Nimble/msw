@@ -1,0 +1,232 @@
+{
+  "meta": {
+    "title": "Live Tennis API - ATP Rankings",
+    "description": "Overal tour rankings",
+    "fields": {
+      "rankings_array": {
+        "id": "Integer - player_id",
+        "first_name": "String",
+        "last_name": "String",
+        "full_name": "String",
+        "country": "String",
+        "ranking": "Integer",
+        "movement": "String",
+        "ranking_points": "Integer"
+      }
+    }
+  },
+  "results": {
+    "rankings": [
+      {
+        "id": 89304,
+        "first_name": "Novak",
+        "last_name": "Djokovic",
+        "full_name": "Novak Djokovic",
+        "country": "Serbia",
+        "ranking": 1,
+        "movement": "",
+        "ranking_points": 7160
+      },
+      {
+        "id": 1655550,
+        "first_name": "Carlos",
+        "last_name": "Alcaraz",
+        "full_name": "Carlos Alcaraz",
+        "country": "Spain",
+        "ranking": 2,
+        "movement": "",
+        "ranking_points": 6780
+      },
+      {
+        "id": 734208,
+        "first_name": "Stefanos",
+        "last_name": "Tsitsipas",
+        "full_name": "Stefanos Tsitsipas",
+        "country": "Greece",
+        "ranking": 3,
+        "movement": "",
+        "ranking_points": 5805
+      },
+      {
+        "id": 715500,
+        "first_name": "Casper",
+        "last_name": "Ruud",
+        "full_name": "Casper Ruud",
+        "country": "Norway",
+        "ranking": 4,
+        "movement": "",
+        "ranking_points": 5560
+      },
+      {
+        "id": 816264,
+        "first_name": "Taylor",
+        "last_name": "Fritz",
+        "full_name": "Taylor Fritz",
+        "country": "USA",
+        "ranking": 5,
+        "movement": "",
+        "ranking_points": 3795
+      },
+      {
+        "id": 981036,
+        "first_name": "Daniil",
+        "last_name": "Medvedev",
+        "full_name": "Daniil Medvedev",
+        "country": "Russia",
+        "ranking": 6,
+        "movement": "+1",
+        "ranking_points": 3775
+      },
+      {
+        "id": 640542,
+        "first_name": "Andrey",
+        "last_name": "Rublev",
+        "full_name": "Andrey Rublev",
+        "country": "Russia",
+        "ranking": 7,
+        "movement": "-1",
+        "ranking_points": 3660
+      },
+      {
+        "id": 1698432,
+        "first_name": "Holger",
+        "last_name": "Rune",
+        "full_name": "Holger Rune",
+        "country": "Denmark",
+        "ranking": 8,
+        "movement": "+2",
+        "ranking_points": 3321
+      },
+      {
+        "id": 86928,
+        "first_name": "Rafael",
+        "last_name": "Nadal",
+        "full_name": "Rafael Nadal",
+        "country": "Spain",
+        "ranking": 9,
+        "movement": "-1",
+        "ranking_points": 3315
+      },
+      {
+        "id": 1152090,
+        "first_name": "Aliassime",
+        "last_name": "Auger",
+        "full_name": "Aliassime Auger",
+        "country": "Canada",
+        "ranking": 10,
+        "movement": "-1",
+        "ranking_points": 3245
+      },
+      {
+        "id": 953388,
+        "first_name": "Hubert",
+        "last_name": "Hurkacz",
+        "full_name": "Hubert Hurkacz",
+        "country": "Poland",
+        "ranking": 11,
+        "movement": "",
+        "ranking_points": 3110
+      },
+      {
+        "id": 575622,
+        "first_name": "Cameron",
+        "last_name": "Norrie",
+        "full_name": "Cameron Norrie",
+        "country": "United Kingdom",
+        "ranking": 12,
+        "movement": "",
+        "ranking_points": 2815
+      },
+      {
+        "id": 219570,
+        "first_name": "Kevin",
+        "last_name": "Krawietz",
+        "full_name": "Kevin Krawietz",
+        "country": "",
+        "ranking": 13,
+        "movement": "+605",
+        "ranking_points": 35
+      },
+      {
+        "id": 1239432,
+        "first_name": "Jannik",
+        "last_name": "Sinner",
+        "full_name": "Jannik Sinner",
+        "country": "Italy",
+        "ranking": 13,
+        "movement": "",
+        "ranking_points": 2655
+      },
+      {
+        "id": 342990,
+        "first_name": "Alexander",
+        "last_name": "Zverev",
+        "full_name": "Alexander Zverev",
+        "country": "Germany",
+        "ranking": 14,
+        "movement": "+2",
+        "ranking_points": 2500
+      },
+      {
+        "id": 540492,
+        "first_name": "Karen",
+        "last_name": "Khachanov",
+        "full_name": "Karen Khachanov",
+        "country": "Russia",
+        "ranking": 15,
+        "movement": "-1",
+        "ranking_points": 2470
+      },
+      {
+        "id": 606618,
+        "first_name": "Frances",
+        "last_name": "Tiafoe",
+        "full_name": "Frances Tiafoe",
+        "country": "USA",
+        "ranking": 16,
+        "movement": "-1",
+        "ranking_points": 2395
+      },
+      {
+        "id": 244812,
+        "first_name": "Busta",
+        "last_name": "Carreno",
+        "full_name": "Busta Carreno",
+        "country": "Spain",
+        "ranking": 17,
+        "movement": "",
+        "ranking_points": 2240
+      },
+      {
+        "id": 1207446,
+        "first_name": "Minaur",
+        "last_name": "De",
+        "full_name": "Minaur De",
+        "country": "Australia",
+        "ranking": 18,
+        "movement": "+4",
+        "ranking_points": 2165
+      },
+      {
+        "id": 831288,
+        "first_name": "Tommy",
+        "last_name": "Paul",
+        "full_name": "Tommy Paul",
+        "country": "USA",
+        "ranking": 19,
+        "movement": "+4",
+        "ranking_points": 2000
+      },
+      {
+        "id": 387492,
+        "first_name": "Borna",
+        "last_name": "Coric",
+        "full_name": "Borna Coric",
+        "country": "Croatia",
+        "ranking": 20,
+        "movement": "",
+        "ranking_points": 1905
+      }
+    ]
+  }
+}
